@@ -1,0 +1,37 @@
+review_id,text,rating,date
+r0000,App crashes every time I try to pay. Money got deducted but no order was placed.,1,2026-10-01
+r0001,Payment failed three times and my bank still shows the amount debited. Terrible.,1,2026-10-01
+r0002,Refund still not received after 12 days. Support keeps saying wait 3 more days.,1,2026-10-02
+r0003,Delivery guy was 50 minutes late and the food was cold.,2,2026-10-02
+r0004,Too many ads on the home screen. I cannot find the search bar anywhere.,2,2026-10-03
+r0005,Love the app! Fast delivery and great restaurant choices.,5,2026-10-03
+r0006,Delivery charges and platform fee are way too high now. Not worth it anymore.,2,2026-10-04
+r0007,Customer support chat just gives copy paste answers. Nobody solves the actual problem.,1,2026-10-04
+r0008,App freezes on the checkout screen and I have to restart it every time.,2,2026-10-05
+r0009,They showed 50 percent off but at checkout the discount vanished. Fake offers.,1,2026-10-05
+r0010,Order arrived with two items missing and they refused to refund me.,1,2026-10-06
+r0011,UPI payment keeps failing but works fine on other apps. Please fix this.,2,2026-10-06
+r0012,Good app but the menu layout is confusing. Hard to find my past orders.,3,2026-10-07
+r0013,Refund took more than two weeks. Will uninstall if this happens again.,1,2026-10-07
+r0014,"Excellent service, very happy with the quick delivery.",5,2026-10-08
+r0015,The app crashes after the latest update. Cannot open it at all.,1,2026-10-08
+r0016,Wrong order delivered and nobody from support picked up my call.,1,2026-10-09
+r0017,Coupon codes do not apply even when they are valid. Waste of time.,2,2026-10-09
+r0018,Payment page loads forever and then shows error. Lost my order twice today.,1,2026-10-10
+r0019,"Tracking map is wrong, shows the rider far from my house for the whole delivery.",2,2026-10-10
+r0020,Please add a dark mode and a reorder button on the main screen.,3,2026-10-11
+r0021,Support told me the refund was processed but my account shows nothing after 10 days.,1,2026-10-11
+r0022,"Rider never arrived, order marked delivered but I got nothing.",1,2026-10-12
+r0023,"App is so slow, takes a minute to load the restaurant list.",2,2026-10-12
+r0024,"Card payment declined even though I have enough balance, then the money was deducted anyway.",1,2026-10-13
+r0025,Prices on the app are higher than in the restaurant. Cheating customers.,2,2026-10-13
+r0026,"Too many pop ups and banners, the screen is cluttered and confusing.",2,2026-10-14
+r0027,"Great discounts for new users, ordering gets cheap with the first coupon.",4,2026-10-14
+r0028,Order stuck on preparing for an hour and then got cancelled without notice.,1,2026-10-15
+r0029,The login keeps logging me out and OTP does not arrive.,2,2026-10-15
+r0030,Nobody responds to support tickets. I have raised four and got no reply.,1,2026-10-16
+r0031,Refund promised in 3 days but 9 days passed. Frustrating.,1,2026-10-16
+r0032,"Cannot apply wallet balance at checkout, payment button does nothing.",2,2026-10-17
+r0033,"Late delivery again, third time this week. Switching to another app.",1,2026-10-17
+r0034,"Nice app, simple to use.",4,2026-10-18
+r0035,Bug: the cart empties itself when I go back to change the address.,2,2026-10-18
