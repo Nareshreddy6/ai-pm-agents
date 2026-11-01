@@ -43,7 +43,7 @@ python agent.py report
 | v1, re-scored | Same prompt, after a label audit corrected 3 of my own label mistakes and 1 multi-issue case | about 97% (35/36) | 0.0% | 11.1% |
 |       v2      | Added a multi-issue rule and "never use `other` for a real complaint" | 100% (36/36) | 0.0% | 11.1% |
 
-![Agent 1: v1 vs v2 results](v1_vs_v2.png)
+Pi
 
 **Read this carefully:** v2 was tuned on the same 36 reviews it is scored on (overfitting), and the answer key was corrected after I saw the agent's answers. The 100% is a development result, not a quality claim.
 
